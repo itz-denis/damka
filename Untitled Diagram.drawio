@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T14:01:03.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="N3th6TRpVI2MKOiWKoyb" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T10:44:51.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gxJilXoqXcws8c92N9Nj" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1400" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -112,24 +112,21 @@
         <mxCell id="cDAYfYiGvi2COIqTTSTw-110" value="בחר שחקן אחר" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDAYfYiGvi2COIqTTSTw-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-112" target="cDAYfYiGvi2COIqTTSTw-115" edge="1">
+        <mxCell id="cDAYfYiGvi2COIqTTSTw-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-112" target="QLwqlWArIf-RWkTs_ufm-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cDAYfYiGvi2COIqTTSTw-112" value="המשך" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDAYfYiGvi2COIqTTSTw-118" value="אכילה" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-115" target="cDAYfYiGvi2COIqTTSTw-125" edge="1">
+        <mxCell id="cDAYfYiGvi2COIqTTSTw-118" value="אכילה" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QLwqlWArIf-RWkTs_ufm-4" target="cDAYfYiGvi2COIqTTSTw-125" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cDAYfYiGvi2COIqTTSTw-121" value="רגיל" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-115" target="cDAYfYiGvi2COIqTTSTw-127" edge="1">
+        <mxCell id="cDAYfYiGvi2COIqTTSTw-121" value="רגיל" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QLwqlWArIf-RWkTs_ufm-4" target="cDAYfYiGvi2COIqTTSTw-127" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="1520" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cDAYfYiGvi2COIqTTSTw-115" value="השחקן אכל או ביצע מהלך רגיל&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cDAYfYiGvi2COIqTTSTw-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-125" target="cDAYfYiGvi2COIqTTSTw-131" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -147,27 +144,26 @@
         <mxCell id="cDAYfYiGvi2COIqTTSTw-127" value="בצע מהלך רגיל&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDAYfYiGvi2COIqTTSTw-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-131" target="cDAYfYiGvi2COIqTTSTw-133" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cDAYfYiGvi2COIqTTSTw-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-131" target="QLwqlWArIf-RWkTs_ufm-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cDAYfYiGvi2COIqTTSTw-131" value="המשך&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cDAYfYiGvi2COIqTTSTw-133" value="האם אחד השחקנים ניצח?" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="1780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cDAYfYiGvi2COIqTTSTw-142" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-133" target="cDAYfYiGvi2COIqTTSTw-48" edge="1">
+        <mxCell id="cDAYfYiGvi2COIqTTSTw-142" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=4;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QLwqlWArIf-RWkTs_ufm-2" target="cDAYfYiGvi2COIqTTSTw-48" edge="1">
           <mxGeometry x="-0.9717" relative="1" as="geometry">
             <mxPoint x="10" y="1180" as="targetPoint" />
             <mxPoint x="200" y="1895" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="60" y="1810" />
-              <mxPoint x="60" y="323" />
+              <mxPoint x="60" y="1795" />
+              <mxPoint x="60" y="324" />
             </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cDAYfYiGvi2COIqTTSTw-144" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cDAYfYiGvi2COIqTTSTw-133" target="cDAYfYiGvi2COIqTTSTw-143" edge="1">
+        <mxCell id="cDAYfYiGvi2COIqTTSTw-144" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QLwqlWArIf-RWkTs_ufm-2" target="cDAYfYiGvi2COIqTTSTw-143" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="1970" as="sourcePoint" />
           </mxGeometry>
@@ -223,6 +219,12 @@
         </mxCell>
         <mxCell id="QLwqlWArIf-RWkTs_ufm-1" value="האם אכלת?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="450" width="126" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="QLwqlWArIf-RWkTs_ufm-2" value="האם אחד &lt;br&gt;השחקנים ניצח?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="367" y="1760" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QLwqlWArIf-RWkTs_ufm-4" value="השחקן אכל או ביצע מהלך רגיל&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="1370" width="126" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
