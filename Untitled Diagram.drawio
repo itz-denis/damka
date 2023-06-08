@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T10:44:51.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gxJilXoqXcws8c92N9Nj" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T11:45:22.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rrqKTGb96ock4iqfKYk7" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1313" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -217,13 +217,13 @@
         <mxCell id="cDAYfYiGvi2COIqTTSTw-88" value="האם שחקן 1 ניצח?" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="294" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QLwqlWArIf-RWkTs_ufm-1" value="האם אכלת?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QLwqlWArIf-RWkTs_ufm-1" value="האם אכלת?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="450" width="126" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="QLwqlWArIf-RWkTs_ufm-2" value="האם אחד &lt;br&gt;השחקנים ניצח?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QLwqlWArIf-RWkTs_ufm-2" value="האם אחד &lt;br&gt;השחקנים ניצח?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="367" y="1760" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QLwqlWArIf-RWkTs_ufm-4" value="השחקן אכל או ביצע מהלך רגיל&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QLwqlWArIf-RWkTs_ufm-4" value="השחקן אכל או ביצע&lt;br&gt;&amp;nbsp;מהלך רגיל&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="1370" width="126" height="70" as="geometry" />
         </mxCell>
       </root>
